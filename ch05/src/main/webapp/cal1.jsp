@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h2>연산결과 cal1</h2>
+	<h2>연산결과 cal1123140909124sdfjjdfjioe4j5emf904j3</h2>
 	<%
 	try {
 		int num1 = Integer.parseInt(request.getParameter("num1"));
